@@ -1,0 +1,16 @@
+.app{
+    background-color: lightgrey;
+}
+
+.wrapper{
+    margin-top: 30%;
+    margin-bottom: 100%;
+}
+
+.warning{
+    display: none;
+}
+
+.info{
+    display: none;
+}
